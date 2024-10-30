@@ -1,0 +1,202 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Brasa Slider\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Fri Dec 04 2015 17:29:28 GMT-0200 (BRST)\n"
+"PO-Revision-Date: Fri Dec 04 2015 17:39:55 GMT-0200 (BRST)\n"
+"Last-Translator: matheus <matheus@brasa.art.br>\n"
+"Language-Team: \n"
+"Language: Portuguese (Brazil)\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ../../plugins/brasa-slider\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: pt_BR\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ../../plugins/brasa-slider/inc/odin-options.php:89 ../../plugins/brasa-
+#: slider/inc/odin-options.php:622 ../../plugins/brasa-slider/inc/odin-metabox.
+#: php:92 ../../plugins/brasa-slider/inc/odin-metabox.php:487
+msgid "Add images in gallery"
+msgstr "Adicionar imagens na galeria"
+
+#: ../../plugins/brasa-slider/inc/odin-options.php:90 ../../plugins/brasa-
+#: slider/inc/odin-metabox.php:93
+msgid "Add in gallery"
+msgstr "Adicionar na galeria"
+
+#: ../../plugins/brasa-slider/inc/odin-options.php:91 ../../plugins/brasa-
+#: slider/inc/odin-options.php:573 ../../plugins/brasa-slider/inc/odin-options.
+#: php:611 ../../plugins/brasa-slider/inc/odin-metabox.php:94 ../../plugins/brasa-
+#: slider/inc/odin-metabox.php:447 ../../plugins/brasa-slider/inc/odin-metabox.
+#: php:476
+msgid "Remove image"
+msgstr "Remover imagem"
+
+#: ../../plugins/brasa-slider/inc/odin-options.php:92 ../../plugins/brasa-
+#: slider/inc/odin-metabox.php:95
+msgid "Choose a file"
+msgstr "Selecionar um arquivo"
+
+#: ../../plugins/brasa-slider/inc/odin-options.php:93 ../../plugins/brasa-
+#: slider/inc/odin-metabox.php:96
+msgid "Add file"
+msgstr "Adicionar arquivo"
+
+#: ../../plugins/brasa-slider/inc/odin-options.php:539 ../../plugins/brasa-
+#: slider/inc/odin-metabox.php:423
+msgid "Select file"
+msgstr "Selecionar arquivo"
+
+#: ../../plugins/brasa-slider/inc/odin-options.php:573 ../../plugins/brasa-
+#: slider/inc/odin-metabox.php:447
+msgid "Select image"
+msgstr "Selecionar imagem"
+
+#. Name of the plugin
+msgid "Brasa Slider"
+msgstr "Brasa Slider"
+
+#. URI of the plugin
+msgid "http://brasa.art.br"
+msgstr "http://brasa.art.br"
+
+#. Author of the plugin
+msgid "Matheus Gimenez"
+msgstr "Matheus Gimenez"
+
+#: ../../plugins/brasa-slider/brasa-slider.php:62
+msgctxt "Post Type General Name"
+msgid "Brasa Sliders"
+msgstr "Brasa Sliders"
+
+#: ../../plugins/brasa-slider/brasa-slider.php:63
+msgctxt "Post Type Singular Name"
+msgid "Brasa Slider"
+msgstr "Brasa Slider"
+
+#: ../../plugins/brasa-slider/brasa-slider.php:65
+msgid "Slider parent"
+msgstr "Slider parente"
+
+#: ../../plugins/brasa-slider/brasa-slider.php:66
+msgid "All sliders"
+msgstr "Todos sliders"
+
+#: ../../plugins/brasa-slider/brasa-slider.php:67
+msgid "View slider"
+msgstr "Ver slider"
+
+#: ../../plugins/brasa-slider/brasa-slider.php:68
+msgid "Add New Slider"
+msgstr "Adicionar novo slider"
+
+#: ../../plugins/brasa-slider/brasa-slider.php:69
+msgid "Add New"
+msgstr "Adicionar novo"
+
+#: ../../plugins/brasa-slider/brasa-slider.php:70
+msgid "Edit Slider"
+msgstr "Editar slider"
+
+#: ../../plugins/brasa-slider/brasa-slider.php:71
+msgid "Update Slider"
+msgstr "Atualizar slider"
+
+#: ../../plugins/brasa-slider/brasa-slider.php:72
+msgid "Search Slider"
+msgstr "Buscar slider"
+
+#: ../../plugins/brasa-slider/brasa-slider.php:73
+msgid "Not found"
+msgstr "Não encontrado"
+
+#: ../../plugins/brasa-slider/brasa-slider.php:74
+msgid "Not found in Trash"
+msgstr "Não encontrado na lixeira"
+
+#: ../../plugins/brasa-slider/brasa-slider.php:77
+msgid "brasa_slider_cpt"
+msgstr "brasa_slider_cpt"
+
+#: ../../plugins/brasa-slider/brasa-slider.php:125
+msgid "Search Posts by Name"
+msgstr "Buscar posts pelo Nome"
+
+#: ../../plugins/brasa-slider/brasa-slider.php:133
+msgid "Order Slider"
+msgstr "Ordenar slider"
+
+#: ../../plugins/brasa-slider/brasa-slider.php:141
+msgid "<input type=\"text\" id=\"search_brasa_slider\" placeholder=\"Search.. \">"
+msgstr "<input type=\"text\" id=\"search_brasa_slider\" placeholder=\"Buscar.. \">"
+
+#: ../../plugins/brasa-slider/brasa-slider.php:142
+msgid ""
+"<a id=\"search-bt-slider\" class=\"button button-primary button-large\">Search!"
+"</a>"
+msgstr ""
+"<a id=\"search-bt-slider\" class=\"button button-primary button-large\">Buscar!"
+"</a>"
+
+#: ../../plugins/brasa-slider/brasa-slider.php:143
+msgid ""
+"<a class=\"button button-primary button-large select-image-brasa\">Or select "
+"image</a>"
+msgstr ""
+"<a class=\"button button-primary button-large select-image-brasa\">Ou "
+"selecionar imagem</a>"
+
+#: ../../plugins/brasa-slider/brasa-slider.php:165
+#, php-format
+msgid "<a class=\"rm-item\" data-post-id=\"%s\">Remove this</a>"
+msgstr "<a class=\"rm-item\" data-post-id=\"%s\">Remove this</a>"
+
+#: ../../plugins/brasa-slider/brasa-slider.php:169
+msgid "Link"
+msgstr "Link"
+
+#: ../../plugins/brasa-slider/brasa-slider.php:174
+msgid ""
+"<span class=\"notice_not_item\">No items added to the Slider. Use the 'Search "
+"Posts by Name' to search for items and add to Slider.</span>"
+msgstr ""
+"<span class=\"notice_not_item\">Sem itens adicionado ao slider. Use  'Buscar "
+"posts por nome' para buscar posts e adiciona-los ao slider.</span>"
+
+#: ../../plugins/brasa-slider/brasa-slider.php:194
+msgid "<h2>Click to select</h2>"
+msgstr "<h2>Clique para selecionar</h2>"
+
+#: ../../plugins/brasa-slider/brasa-slider.php:204
+msgid "Link (Destination URL)"
+msgstr "Link (URL de destino)"
+
+#: ../../plugins/brasa-slider/inc/metabox.php:17
+msgid "Default size"
+msgstr "Tamanho padrão"
+
+#: ../../plugins/brasa-slider/inc/metabox.php:29
+msgid "Configure Slick JS <br>"
+msgstr "Configurar o Slick JS <br>"
+
+#: ../../plugins/brasa-slider/inc/metabox.php:35
+msgid ""
+"Read official Slick website for exemples & documentation: <a href=\"http:"
+"//kenwheeler.github.io/slick/\">http://kenwheeler.github.io/slick/</a>"
+msgstr ""
+"Visite o site oficial para ver exemplos e ler a documentação (em Inglês): <a "
+"href=\"http://kenwheeler.github.io/slick/\">http://kenwheeler.github."
+"io/slick/</a>"
+
+#: ../../plugins/brasa-slider/inc/metabox.php:39
+msgid "Select image size"
+msgstr "Selecionar tamanho de imagem"

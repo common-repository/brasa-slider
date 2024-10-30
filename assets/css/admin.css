@@ -1,0 +1,107 @@
+#search_brasa_slider{
+	width:100%;
+	font-size:1.6em;
+}
+#search-bt-slider{
+	margin-top:10px;
+	font-size:1.4em;
+}
+#brasa_slider_result .rm-item, #brasa_slider_result .container_brasa_link{
+	display:none;
+}
+.brasa_slider_item{
+	background-color: #FFF;
+	border-radius:3px;
+	cursor:pointer;
+	width:100%;
+	padding:5px 5px 10px;
+	border:1px solid #ddd;
+	min-height:120px;
+	margin-top:10px;
+	overflow: hidden;
+}
+.brasa_slider_item .title_item{
+	color:#666;
+	display: block;
+	font-size: 1.3em;
+	font-weight: bold;
+	padding: 10px 10px 20px;
+	text-align: left;
+	width: 100%;
+}
+.brasa_slider_item .thumb_item{
+	float: left;
+	height: auto;
+	overflow: hidden;
+	text-align: center;
+	width: 20%;
+}
+.brasa_slider_item .thumb_item img{
+	width:100px;
+	height:auto;
+}
+.brasa_slider_item img.wp-post-image {
+	float: left;
+	margin-right: 25px;
+}
+.brasa_slider_item .container_brasa_link {
+	display: block;
+	float: left;
+	width: 60%;
+}
+#brasa_slider_search{
+	padding:10px;
+}
+#edit-slug-box{
+	display:none;
+}
+.brasa_slider_item:hover{
+	transition:200ms all ease;
+	border:1px solid #7ACEF4;
+}
+#brasa_slider_sortable{
+	padding:10px;
+	padding-right:20px;
+	list-style-type: none;
+}
+#brasa_slider_sortable .rm-item{
+	clear: both;
+	color: red;
+	display: block;
+	padding: 3px 5px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	width: 100%;
+}
+#brasa_slider_sortable .rm-item:hover{
+	background:red;
+	color:white;
+	transition:200ms all ease;
+}
+
+.brasa_slider_item label.link {
+	display: block;
+	margin: 20px 0 0;
+}
+
+.brasa_slider_item .link_brasa_slider {
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	padding: 8px 10px;
+	width: 95%;
+}
+.select-image-brasa{
+	margin-top:10px !important;
+	margin-left:10px !important;
+}
+body.post-type-brasa_slider_cpt #normal-sortables {
+	display: none;
+}
+body.post-type-brasa_slider_cpt #brasa_slider_sortable_ul li {
+	cursor:grab;
+}
+body.post-type-brasa_slider_cpt #brasa_slider_sortable_ul li.ui-sortable-helper {
+	cursor:grabbing;
+}
